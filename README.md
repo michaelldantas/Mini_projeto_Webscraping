@@ -2,3 +2,4 @@ Mini projeto que faz o Web Scraping no site https://coinmarketcap.com/, para peg
 Foi utilizado a biblioteca BeautifulSoup para realizar a consulta dos dodos. 
 Foi utilizado a biblioteca Request para realizar a requisição.
 No final, o sistema dá como resposta um dicionário com as 10 primeiras moedas e seus valores, em tempo real. 
+A linguagem utilizada foi o PYTHON 3.12. E a IDE o VSCODE.
